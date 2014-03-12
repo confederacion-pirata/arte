@@ -1,6 +1,6 @@
-[Creative Commons](//creativecommons.org/)
+[Creative Commons](http://creativecommons.org/)
 
-![CC](//creativecommons.org/images/deed/cc-logo.jpg)
+![CC](http://creativecommons.org/images/deed/cc-logo.jpg)
 
 Creative Commons Legal Code
 ===========================
@@ -8,7 +8,7 @@ Creative Commons Legal Code
 Attribution-ShareAlike 4.0 International
 ----------------------------------------
 
-![image](//creativecommons.org/images/international/unported.png)
+![image](http://creativecommons.org/images/international/unported.png)
 
 Creative Commons Corporation (“Creative Commons”) is not a law firm and
 does not provide legal services or legal advice. Distribution of
@@ -39,7 +39,7 @@ exhaustive, and do not form part of our licenses.
 > Licensors should clearly mark any material not subject to the license.
 > This includes other CC-licensed material, or material used under an
 > exception or limitation to copyright. [More considerations for
-> licensors.](//wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors)
+> licensors.](http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors)
 
 > **Considerations for the public:** By using one of our public
 > licenses, a licensor grants the public permission to use the licensed
@@ -54,7 +54,7 @@ exhaustive, and do not form part of our licenses.
 > that all changes be marked or described. Although not required by our
 > licenses, you are encouraged to respect those requests where
 > reasonable. [More considerations for the
-> public.](//wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensees)
+> public.](http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensees)
 
 ### Creative Commons Attribution-ShareAlike 4.0 International Public License
 
@@ -82,7 +82,7 @@ making the Licensed Material available under these terms and conditions.
     and Similar Rights in Your contributions to Adapted Material in
     accordance with the terms and conditions of this Public License.
 3.  **BY-SA Compatible License** means a license listed at
-    [creativecommons.org/compatiblelicenses](//creativecommons.org/compatiblelicenses),
+    [creativecommons.org/compatiblelicenses](http://creativecommons.org/compatiblelicenses),
     approved by Creative Commons as essentially the equivalent of this
     Public License.
 4.  **Copyright and Similar Rights** means copyright and/or similar
@@ -352,7 +352,7 @@ material it publishes and in those instances will be considered the
 “Licensor.” Except for the limited purpose of indicating that material
 is shared under a Creative Commons public license or as otherwise
 permitted by the Creative Commons policies published at
-[creativecommons.org/policies](//creativecommons.org/policies), Creative
+[creativecommons.org/policies](http://creativecommons.org/policies), Creative
 Commons does not authorize the use of the trademark “Creative Commons”
 or any other trademark or logo of Creative Commons without its prior
 written consent including, without limitation, in connection with any
@@ -362,6 +362,6 @@ material. For the avoidance of doubt, this paragraph does not form part
 of the public licenses.\
 \
  Creative Commons may be contacted at
-[creativecommons.org](//creativecommons.org/).
+[creativecommons.org](http://creativecommons.org/).
 
-[« Back to Commons Deed](./)
+
